@@ -40,7 +40,15 @@ qc.h(qa[2])
 qc.measure(qb[0],c[0])
 qc.measure(qa[2],c[1])
 ```
-
+## Result
 Here is the result on the QASM simulator.  
-![super_dense_coding_sim](https://user-images.githubusercontent.com/45162150/50749861-12fc8480-1285-11e9-966b-2cb68e6d61e8.png)
+![super_dense_coding_sim](https://user-images.githubusercontent.com/45162150/50749861-12fc8480-1285-11e9-966b-2cb68e6d61e8.png)  
+  
+Here is also the result on a real device(ibmq_20_tokyo).  
+![super_dense_coding_tokyo](https://user-images.githubusercontent.com/45162150/50749890-49d29a80-1285-11e9-9297-b3dbb96f538a.png)
+
+
+
+  
+  
 
